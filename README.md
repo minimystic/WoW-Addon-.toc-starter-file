@@ -5,4 +5,4 @@ A .toc file template to help you get started with WoW addon creation.
 
 # How to put it into use
 
-Install the .toc file, name it the name you want your addon to be **(THE .TOC AND THE .LUA HAVE TO HAVE THE SAME FILE NAME)**, and
+Download and extract the .zip file from the releases section. After doing that, open the .toc file with a code editor of your choice. Go through and fill out the different sections and make sure that the .lua code file and the .toc file have the exact same name.
