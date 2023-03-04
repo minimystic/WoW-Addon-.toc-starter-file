@@ -1,0 +1,7 @@
+## Interface: 100002
+## Version: 1.0.0
+## Title: Addon Name
+## Notes: A description of your addon.
+## Author: What you want to put here as an author name.
+
+luafilename.lua
